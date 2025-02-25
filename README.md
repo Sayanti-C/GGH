@@ -1,4 +1,4 @@
-# AI-Powered Intelligent Process Automation
+# NeuralDesk
 
 ## 🚀 Project Overview
 This project automates repetitive and time-consuming business processes using AI. It integrates **OCR**, **Natural Language Processing (NLP)**, and **AI-driven chatbot capabilities** to process documents, extract information, and interact with users efficiently.
